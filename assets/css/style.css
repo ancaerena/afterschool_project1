@@ -8,7 +8,30 @@
 body {
     font-family: DynaPuff, cursive;
     font-weight: 300;
+    color: #676eb2 
 }
 #logo {
     float: left;
+    margin-right: 5%;
+    margin-left: 10%;
+}
+#menu {
+    font-size: 110%;
+}
+#menu, #logo {
+    line-height: 75px;
+}
+#menu li {
+    list-style-type: none;
+    margin-right: 30px;
+    margin-top: 55px;
+    float: left;
+    
+}
+#menu a {
+    text-decoration: none;
+    color: inherit
+}
+#menu a:hover {
+    border-bottom: 1px solid #079997;
 }
