@@ -8,7 +8,7 @@
 body {
     font-family: DynaPuff, cursive;
     font-weight: 300;
-    color: #676eb2 
+    color: #079997 
 }
 #logo {
     float: left;
@@ -16,27 +16,39 @@ body {
     margin-left: 10%;
 }
 #menu {
-    font-size: 110%;
+    font-size: 140%;
 }
 #menu, #logo {
     line-height: 75px;
 }
 #menu li {
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 55px;
     margin-top: 55px;
     float: left;
     
+}
+/* navigation menu border */
+.nav-box {
+    border: none solid 4px;
+    border-radius: 20%;
+    padding: 4px;
+    background-color: #fff;
+
 }
 #menu a {
     text-decoration: none;
     color: inherit
 }
 #menu a:hover {
-    border-bottom: 1px solid #079997;
+    border-bottom: 4px solid #079997;
+}
+.active {
+    border-bottom: 4px solid #079997;
+
 }
 #header-background {
     height: 200px;
     width: 100%;
-    background: url(../images/20220818_212707_0001.png);
+    background: url(../images/20220818_212707_0001.png) no-repeat center center;
 }
