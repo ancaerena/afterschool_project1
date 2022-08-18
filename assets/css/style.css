@@ -9,3 +9,6 @@ body {
     font-family: DynaPuff, cursive;
     font-weight: 300;
 }
+#logo {
+    float: left;
+}
