@@ -50,12 +50,17 @@ body {
 #header-background {
     height: 200px;
     width: 100%;
-    background: url(../images/20220818_212707_0001.png) no-repeat center center;
+    background: url(../images/20220818_212707_0001.png) center center;
 }
 hr {
     border: 1px solid #f6a4a6;
     width: 100%;
     margin: 5px 0;
+}
+section h1 {
+    text-align: center;
+    color: #676eb2;
+    text-transform: uppercase;
 }
 #left-text {
     padding-top: 30px;
@@ -69,24 +74,32 @@ hr {
 }
 #paragraph-box {
     font-family: Nunito, sans-serif;
-    font-size: medium;
+    font-size: 150%;
     border: none;
     border-radius: 10%;
-    padding: 4px;
+    padding: 10px;
     background-color: #676eb2;
     color:#fff;
     text-align: left;
+    margin: 5%;
 }
 #left-side {
     padding-top: 30px;
     width: 50%;
     float: left;
 }
-#right-side {
-    padding-top: 30px;
-    width: 50%;
-    float: right; 
+#left-text-box {
+    font-family: Nunito, sans-serif;
+    font-size: 150%;
+    border: none;
+    border-radius: 10%;
+    padding: 10px;
+    background-color: #676eb2;
+    color:#fff;
+    text-align: left; 
+    margin: 5%;
 }
+
 #left-circle-container {
     width: 300px;
     height: 300px;
@@ -96,6 +109,22 @@ hr {
     border-width: 1px;
     border-radius: 50%;
     float: left;
+}
+#right-side {
+    padding-top: 30px;
+    width: 50%;
+    float: right; 
+}
+#right-text-box {
+    font-family: Nunito, sans-serif;
+    font-size: 150%;
+    border: none;
+    border-radius: 10%;
+    padding: 10px;
+    background-color: #676eb2;
+    color:#fff;
+    text-align: right; 
+    margin: 5%;
 }
 #right-circle-container {
     width: 300px;
@@ -108,12 +137,12 @@ hr {
     float: right;
 }
 #left-circle-cover {
-    background: url(../images/logo-girl-300x300px.jpg) no-repeat center center;
+    background: url(../images/circle-photo-2.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
 #right-circle-cover {
-    background: url(../images/logo-boy-300x300px.jpg) no-repeat center center;
+    background: url(../images/circle-photo1.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
