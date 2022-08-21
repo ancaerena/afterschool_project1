@@ -52,10 +52,10 @@ body {
     width: 100%;
     background: url(../images/20220818_212707_0001.png) no-repeat center center;
 }
-#section-background {
-    height:100%;
+hr {
+    border: 1px solid #f6a4a6;
     width: 100%;
-    background: url(../images/section-background.png) no-repeat center center;
+    margin: 5px 0;
 }
 #left-text {
     padding-top: 30px;
@@ -65,7 +65,7 @@ body {
 #right-video {
     padding-top: 30px;
     width: 50%;
-    float: left;
+    float: right;
 }
 #paragraph-box {
     font-family: Nunito, sans-serif;
@@ -74,19 +74,46 @@ body {
     border-radius: 10%;
     padding: 4px;
     background-color: #676eb2;
-    width: 50%;
     color:#fff;
-    text-align: center;
+    text-align: left;
 }
 #left-side {
     padding-top: 30px;
     width: 50%;
     float: left;
-    background-color: #676eb2;
 }
 #right-side {
     padding-top: 30px;
     width: 50%;
+    float: right; 
+}
+#left-circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #676eb2;
+    border-width: 1px;
+    border-radius: 50%;
+    float: left;
+}
+#right-circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #676eb2;
+    border-width: 1px;
+    border-radius: 50%;
     float: right;
-    background-color: #f6a4a6;
+}
+#left-circle-cover {
+    background: url(../images/logo-girl-300x300px.jpg) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+#right-circle-cover {
+    background: url(../images/logo-boy-300x300px.jpg) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
 }
