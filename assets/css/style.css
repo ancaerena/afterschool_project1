@@ -57,6 +57,16 @@ body {
     width: 100%;
     background: url(../images/section-background.png) no-repeat center center;
 }
+#left-text {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+}
+#right-video {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+}
 #paragraph-box {
     font-family: Nunito, sans-serif;
     font-size: medium;
@@ -66,6 +76,17 @@ body {
     background-color: #676eb2;
     width: 50%;
     color:#fff;
-    text-align: left;
-    padding: 2%;
+    text-align: center;
+}
+#left-side {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+    background-color: #676eb2;
+}
+#right-side {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+    background-color: #f6a4a6;
 }
