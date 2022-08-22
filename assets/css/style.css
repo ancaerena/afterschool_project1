@@ -13,7 +13,7 @@ body {
 #logo {
     float: left;
     margin-right: 5%;
-    margin-left: 10%;
+    margin-left: 20%;
 }
 #menu {
     font-size: 140%;
@@ -65,12 +65,10 @@ section h1 {
 #left-text {
     padding-top: 30px;
     width: 50%;
-    float: left;
 }
 #right-video {
     padding-top: 30px;
     width: 50%;
-    float: right;
 }
 #paragraph-box {
     font-family: Nunito, sans-serif;
@@ -80,13 +78,12 @@ section h1 {
     padding: 10px;
     background-color: #676eb2;
     color:#fff;
-    text-align: left;
+    text-align: center;
     margin: 5%;
 }
 #left-side {
     padding-top: 30px;
     width: 50%;
-    float: left;
 }
 #left-text-box {
     font-family: Nunito, sans-serif;
@@ -96,7 +93,7 @@ section h1 {
     padding: 10px;
     background-color: #676eb2;
     color:#fff;
-    text-align: left; 
+    text-align: center; 
     margin: 5%;
 }
 
@@ -105,15 +102,13 @@ section h1 {
     height: 300px;
     padding: 30px;
     border-style: solid;
-    border-color: #676eb2;
+    border-color: #f6a4a6;
     border-width: 1px;
     border-radius: 50%;
-    float: left;
 }
 #right-side {
     padding-top: 30px;
-    width: 50%;
-    float: right; 
+    width: 50%; 
 }
 #right-text-box {
     font-family: Nunito, sans-serif;
@@ -123,7 +118,7 @@ section h1 {
     padding: 10px;
     background-color: #676eb2;
     color:#fff;
-    text-align: right; 
+    text-align: center; 
     margin: 5%;
 }
 #right-circle-container {
@@ -131,10 +126,9 @@ section h1 {
     height: 300px;
     padding: 30px;
     border-style: solid;
-    border-color: #676eb2;
+    border-color: #f6a4a6;
     border-width: 1px;
     border-radius: 50%;
-    float: right;
 }
 #left-circle-cover {
     background: url(../images/circle-photo-2.jpg) no-repeat center center;
@@ -145,4 +139,19 @@ section h1 {
     background: url(../images/circle-photo1.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;
+}
+footer {
+    height: 150px;
+}
+footer ul {
+    text-align: center;
+}
+footer ul > li {
+    display: inline;
+}
+footer i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #676eb2;
 }
