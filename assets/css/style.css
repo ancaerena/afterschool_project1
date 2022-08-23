@@ -155,3 +155,13 @@ footer i {
     padding: 5%;
     color: #676eb2;
 }
+/* gallery */
+#gallery {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+#gallery > img {
+    width: 100%;
+}
