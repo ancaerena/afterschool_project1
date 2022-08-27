@@ -197,17 +197,38 @@ footer i {
 /* transport and english lessons section */
 #transport-english {
 background-color: rgba(103, 110, 178, 0.3);
+height: fit-content;
+display: flex;
+flex-direction: row;
+width: 80%;
+margin: auto;
+margin-top: 50px;
+gap: 30px; 
 }
 
 /* cathering and medical care section */
 #cathering-medical {
     background-color: rgba(7, 153, 151, 0.3);
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    gap: 50px; 
 }
 
 /* outhoor activities and other section */
 
 #outdoor-other {
     background-color: rgba(246, 164, 166, 0.3);
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    gap: 50px; 
 }
 
 /* gallery */
