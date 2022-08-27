@@ -217,6 +217,7 @@ footer i {
 }
 #address-text {
     height: 100%;
+    width: 50%;
 }
 #address {
     font-family: Nunito, sans-serif;
