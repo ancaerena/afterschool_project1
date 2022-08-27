@@ -175,6 +175,8 @@ hr {
     height: 100%;
     border-radius: 50%;
 }
+/* footer */
+
 footer {
     height: 150px;
 }
@@ -201,9 +203,20 @@ footer i {
     width: 100%;
 }
 /* contact page */
-.address-map {
-    float: left;
-    width: 100%;
+
+/* address and form */
+#address-form {
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    gap: 50px; 
+
+}
+#address-text {
+    height: 100%;
 }
 #address {
     font-family: Nunito, sans-serif;
@@ -215,10 +228,17 @@ footer i {
     color:#fff;
     text-align: center;
     margin: 5%;
-    float: left;
-    width: 45%
 }
+#form {
+
+}
+/* h2 contact page style */
+h2 {
+    text-align: center;
+    margin-left: 10%;
+}
+/* map */
 #map {
-    float: right;
-    width: 45%
+    width: 100%;
+    margin-left: 35%;
 }
