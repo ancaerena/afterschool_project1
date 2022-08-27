@@ -99,7 +99,11 @@ hr {
     width: 80%;
     margin: auto;
     margin-top: 50px;
-    gap: 40px; 
+    gap: 50px; 
+}
+#second-text {
+    height: 100%;
+    width: 50%;
 }
 #left-text-box {
     font-family: Nunito, sans-serif;
@@ -138,7 +142,11 @@ hr {
     width: 80%;
     margin: auto;
     margin-top: 50px;
-    gap: 40px; 
+    gap: 50px; 
+}
+#third-text {
+    height: 100%;
+    width: 50%;
 }
 
 #right-circle-container {
