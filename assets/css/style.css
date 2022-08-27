@@ -192,6 +192,24 @@ footer i {
     padding: 5%;
     color: #676eb2;
 }
+/* services */
+
+/* transport and english lessons section */
+#transport-english {
+background-color: rgba(103, 110, 178, 0.3);
+}
+
+/* cathering and medical care section */
+#cathering-medical {
+    background-color: rgba(7, 153, 151, 0.3);
+}
+
+/* outhoor activities and other section */
+
+#outdoor-other {
+    background-color: rgba(246, 164, 166, 0.3);
+}
+
 /* gallery */
 #gallery {
     clear: both;
