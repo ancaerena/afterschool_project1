@@ -8,12 +8,13 @@
 body {
     font-family: DynaPuff, cursive;
     font-weight: 300;
-    color: #079997 
+    color: #079997;
 }
 #logo {
     float: left;
     margin-right: 5%;
     margin-left: 20%;
+    width: min(50vw, 200px)
 }
 #menu {
     font-size: 140%;
@@ -380,6 +381,8 @@ gap: 20px;
     color:#fff;
     text-align: center;
 }
+/* form */
+
 #name {
     width: 100%;
     border: #676eb2 2px solid;
@@ -425,4 +428,127 @@ h2 {
 #map {
     width: 100%;
     margin-left: 30%;
+}
+/* media quieries */
+/*media quieries for medium screen sizes*/
+
+@media screen and (max-width: 1200px) {
+    
+    /* header and logo */
+   #menu {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+   }
+h1 {
+        text-align: center;
+        width: 100%;
+    }
+/* home page first section */
+    #first-section {
+    flex-direction: column;
+    width: 100%;
+}
+#right-video {
+    width: fit-content;
+    margin-left: 15%;
+}
+/* home page second section */
+#second-section {
+    flex-direction: column;
+    width: 100%;
+}
+#second-text {
+    width: 100%;
+}
+/* home page third section */
+#third-section {
+    flex-direction: column;
+    width: 100%;
+}
+#third-text {
+    width: 100%;
+}
+/* Services page */
+
+#transport-english {
+flex-direction: column;
+width: 100%;
+    }
+#cathering-medical {
+    flex-direction: column;
+    width: 100%;
+}
+#outdoor-other {
+    flex-direction: column;
+    width: 100%;
+}
+/* contact page */
+#address-form {
+    flex-direction: column;
+    width: 100%;
+}
+#address-text {
+    width: 100%;
+}
+}
+
+/* media quieries for small screen sizes*/
+@media screen and (max-width: 950px) {
+   /* body */
+
+    /* header and logo */
+    #menu {
+        clear: left;
+        float: left;
+        display: inline;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+        width: fit-content;
+       }
+       /* h1 text line */
+h1 {
+        text-align: center;
+        width: 100%;
+    }
+/* home page first section */
+    #first-section {
+        flex-direction: column;
+        width: fit-content;
+    }
+    #right-video {
+        width: fit-content;
+    }
+    #second-section {
+        flex-direction: column;
+        width: fit-content;
+    }
+    #third-section {
+        flex-direction: column;
+        width: fit-content;
+    }
+    
+    #transport-english {
+    flex-direction: column;
+    width: 100%;
+        }
+    #cathering-medical {
+        flex-direction: column;
+        width: 100%;
+    }
+    #outdoor-other {
+        flex-direction: column;
+        width: 100%;
+    }
+    #address-form {
+        flex-direction: column;
+        width: 100%;
+    }
+    #address-text {
+        width: 100%;
+    }
+    
 }
