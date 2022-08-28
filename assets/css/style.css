@@ -193,7 +193,11 @@ footer i {
     color: #676eb2;
 }
 /* services */
-
+#services-h2 {
+    background-color: rgba(169, 219, 218, 0.2);
+    width: 100%;
+    padding-bottom: 3%;
+}
 /* transport and english lessons section */
 
 #transport-english {
@@ -203,7 +207,6 @@ display: flex;
 flex-direction: row;
 width: 100%;
 margin: auto;
-margin-top: 50px;
 gap: 20px; 
 }
 
