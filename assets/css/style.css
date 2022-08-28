@@ -200,21 +200,54 @@ background-color: rgba(103, 110, 178, 0.3);
 height: fit-content;
 display: flex;
 flex-direction: row;
-width: 80%;
+width: 100%;
 margin: auto;
 margin-top: 50px;
-gap: 30px; 
+gap: 20px; 
 }
 
+/*transport*/
+#transport ul {
+    margin-left: 10%;
+    border: 2px solid #fff;
+    border-radius: 25px;
+    color: #676eb2;
+    margin: 5px;
+    margin-left: 10%;
+}
+#transport h3 {
+    margin-left: 20%;
+}
+#transport li {
+    list-style-type: circle;
+    margin-left: 10%;
+}
+
+/*english lessons*/
+#english ul {
+    margin-left: 10%;
+    border: 2px solid #fff;
+    border-radius: 25px;
+    color: #676eb2;
+    margin: 5px; 
+    margin-right: 20%;
+}
+#english h3 {
+    margin-left: 10%;
+}
+#english li {
+    list-style-type: circle;
+    margin-left: 10%;
+    
+}
 /* cathering and medical care section */
 #cathering-medical {
     background-color: rgba(7, 153, 151, 0.3);
     height: fit-content;
     display: flex;
     flex-direction: row;
-    width: 80%;
+    width: 100%;
     margin: auto;
-    margin-top: 50px;
     gap: 50px; 
 }
 
@@ -225,9 +258,8 @@ gap: 30px;
     height: fit-content;
     display: flex;
     flex-direction: row;
-    width: 80%;
+    width: 100%;
     margin: auto;
-    margin-top: 50px;
     gap: 50px; 
 }
 
