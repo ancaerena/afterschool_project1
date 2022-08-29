@@ -94,6 +94,12 @@ h1 {
 
 #right-video {
 	height: 100%;
+    margin: auto;
+    width: 100%;
+}
+#video {
+    width: 100%;
+    height: 100%;
 }
 
 #paragraph-box {
@@ -523,8 +529,8 @@ height: 100%;
 	}
 
 	#right-video {
-		width: fit-content;
-		margin-left: 15%;
+		width: 100%;
+		margin: auto;
 	}
 
 	/* home page second section */
@@ -604,6 +610,9 @@ height: 100%;
 	}
 
 	/* home page first section */
+    h3 {
+        padding: 5px;
+    }
 	#first-section {
 		flex-direction: column;
 		width: 100%;
@@ -611,33 +620,35 @@ height: 100%;
 
 	#right-video {
 		width: 100%;
+        margin: auto;
 	}
-
+    /* home page first section */
 	#second-section {
 		flex-direction: column;
 		width: 100%;
 	}
-
+    
+    /* home page third section */
 	#third-section {
 		flex-direction: column;
 		width: 100%;
 	}
-
+    /* services page transport and english lessons */
 	#transport-english {
 		flex-direction: column;
 		width: 100%;
 	}
-
+    /* services page catering and medical services */
 	#cathering-medical {
 		flex-direction: column;
 		width: 100%;
 	}
-
+    /* services page coutdoor and other activities */
 	#outdoor-other {
 		flex-direction: column;
 		width: 100%;
 	}
-
+    /* contact page forma nd address*/
 	#address-form {
 		flex-direction: column;
 		width: 100%;
