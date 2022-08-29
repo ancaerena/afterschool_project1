@@ -310,7 +310,7 @@ footer i {
 	border-radius: 25px;
 	color: #676eb2;
 	margin: 5px;
-	margin-right: 20%;
+	margin-right: 10%;
 	margin-left: 10%;
 }
 
@@ -366,6 +366,7 @@ footer i {
 	margin: 10px;
 	margin-right: 20%;
 	margin-left: 10%;
+	padding: 4px;
 }
 
 #outdoor h3 {
@@ -375,19 +376,20 @@ footer i {
 
 #outdoor li {
 	list-style-type: circle;
-	margin-left: 15%;
+	margin-left: 10%;
 }
 
 
 /*other activities*/
 
 #other ul {
-	margin-left: 10%;
 	border: 2px solid #fff;
 	border-radius: 25px;
 	color: #676eb2;
 	margin: 5px;
 	margin-right: 10%;
+	margin-left: 10%;
+	padding: 4px;
 }
 
 #other h3 {
