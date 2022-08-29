@@ -6,7 +6,7 @@ Little Musketeers Club is a page created for a before and after school which pro
 <br>
 <h2>UX Planes</h2>
 <br>
-<h3>Strategy<h3>
+<h3>Strategy</h3>
 <br>
 - Creating a page for parents to see and learn about the afterschool
 - It brings value to the business, showcasing the location and the services it offer, also the elements making this business to stand out: free transport, cathering, different type of lessons, from english ones to learning to play a musical instrument
@@ -14,20 +14,26 @@ Little Musketeers Club is a page created for a before and after school which pro
 <h3>Scope</h3>
 <br>
 To provide value, it needs:
+<br>
 A. Visual content: a video presentation, photo gallery with different activities
+<br>
 B. Text: the language has to be friendly, catchy and joyfull
 <br>
 <h3>Structure</h3>
 <br>
 Navigation bar:
+<br>
 Home Page:
 -presentation video
 -a few general details about the afterschool, starting with the most attractive ones that makes the business stand out: free transport and generous opening hours
+<br>
 Services Page:
 - detailed list of all the offers and activities
 - each activity backed up with an appropiate image
+<br>
 Gallery Page:
 - photos from the last couple of months of activity, trips, classes, crafts and outdoor fun in the garden, showcasing the space.
+<br>
 Contact Page:
 - containing the location, address and contact details
 - form for users to contact the afterschool with enquiries
