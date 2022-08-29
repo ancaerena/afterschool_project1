@@ -75,6 +75,7 @@ h1 {
 	text-align: center;
 	color: #676eb2;
 	text-transform: uppercase;
+	padding: 5px;
 }
 
 /* first section of the Home page style */
@@ -90,6 +91,8 @@ h1 {
 
 #left-text {
 	height: 100%;
+	margin: auto;
+	width: 100%;
 }
 
 #right-video {
@@ -129,6 +132,7 @@ h1 {
 #second-text {
 	height: 100%;
 	width: 50%;
+	margin: auto;
 }
 
 #left-text-box {
@@ -519,19 +523,22 @@ height: 100%;
 
 	h1 {
 		text-align: center;
-		width: 100%;
+		width: 80%;
+        margin: auto;
 	}
 
 	/* home page first section */
 	#first-section {
 		flex-direction: column;
 		width: 100%;
+        margin: auto;
 	}
 
 	#right-video {
 		width: 100%;
 		margin: auto;
 	}
+
 
 	/* home page second section */
 	#second-section {
@@ -541,6 +548,7 @@ height: 100%;
 
 	#second-text {
 		width: 100%;
+        margin: auto;
 	}
 
 	/* home page third section */
@@ -617,7 +625,7 @@ height: 100%;
 		flex-direction: column;
 		width: 100%;
 	}
-
+    
 	#right-video {
 		width: 100%;
         margin: auto;
