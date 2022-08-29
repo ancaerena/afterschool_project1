@@ -85,11 +85,19 @@ Contact Page:
 <h2>Testing</h2>
 <br>
 <h3>Validator testing</h3>
+<br>
 <h4>HTML</h4>
+<br>
 -No errors were returned when passing through the official W3C validator
+<br>
 <h4>CSS<h4>
+<br>
 -No errors were found when passing through the official (Jigsaw) validator
 <br>
+<h4>Accesibility</h4>
+<br>
+- I confirm that the colors and fonts chosen are easy to read and accesible by running it through lighthouse in devtools
+<img src="assets/images/web-accesibility.jpeg" alt="data regarding web accesibility from devtools">
 <h2>Deployment</h2>
 <br>
 <h2>Credits</h2>
