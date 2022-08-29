@@ -3,6 +3,8 @@
 <br>
 Little Musketeers Club is a page created for a before and after school which provides childcare services. The target audience of the site are parents and children who are looking for a space for the little ones to spend the afternoon hours. The site provides information on services, photos of the location, the activities and trips involved. It is a colorful, bubbly website that showcases perfectly the Little Musketeers Club.
 <br>
+<img src="assets/images/responsive.jpg" alt="multiple screen sizes diplaying the website">
+<br>
 <br>
 <h2>UX Planes</h2>
 <br>
@@ -24,24 +26,34 @@ B. Text: the language has to be friendly, catchy and joyfull
 Navigation bar:
 <br>
 Home Page:
+<br>
 -presentation video
+<br>
 -a few general details about the afterschool, starting with the most attractive ones that makes the business stand out: free transport and generous opening hours
 <br>
 Services Page:
+<br>
 - detailed list of all the offers and activities
+<br>
 - each activity backed up with an appropiate image
 <br>
 Gallery Page:
 - photos from the last couple of months of activity, trips, classes, crafts and outdoor fun in the garden, showcasing the space.
 <br>
 Contact Page:
+<br>
 - containing the location, address and contact details
+<br>
 - form for users to contact the afterschool with enquiries
+<br>
 - map to the exact location
+<br>
 - general photo, colorful and friendly.
 <br>
 <h3>Skeleton</h3>
+<br>
 - using Balsamiq Wireframes to map out the skeleton of all pages
+<br>
 <img src="assets/images/NewWireframe1.png" alt="first page skeleton in balsamiq">
 <img src="assets/images/NewWireframe2.png" alt="second page skeleton in balsamiq">
 <img src="assets/images/NewWireframe3.png" alt="third page skeleton in balsamiq">
@@ -52,31 +64,40 @@ Contact Page:
 <h3>Existing Features</h3>
 <br>
 <h4>Navigation Bar</h4>
+<br>
 - It is featured on all 4 pages of the website, it is identical on all to allow easy navigation. It includes links to all pages, marking them active when lading on one of them, to keep track of the page the user is on.
 - This will allow the user to navigate through the pages easily, without needing to use the "back" button of a browser.
+<img src="assets/images/nav-bar.jpg" alt="navigation bar for little musketeers page">
 <br>
 <h4>First section</h4>
 -Because the target audience are parents but also children, the first section of the Home page includes the presentation video of the Club.
 - This will allow users to experience the location of the afterschool, as what the space has to offer is the decision-maker factor in many cases.
+<img src="assets/images/first-section.jpg" alt="first section of the Home page for little musketeers website">
 <br>
 <h4>Second section</h4>
 - This highlights a few of the services, the most improtant ones: a generous schedule, to cover most of the working hours of a job, and transportation, with option for collection and dropping of children to and from school. Also, the fact that the club has private transport ensured children can have daily trips to parks or in nature.
 - The section keeps the tone of the site, bubbly and colorful.
 - This section is valuble for the user as they will learn important information from the first page
+<img src="assets/images/second-section.jpg" alt="second section of the Home page for little musketeers website">
+<img src="assets/images/third-section.jpg" alt="third section of the Home page for little musketeers website">
 <br>
 <h4>The Footer</h4>
 - This conains links to both of social media platforms for The Little Musketeers Club. The links open in a new tab to allow easy navigation for the user.
 - The footer is valuble for the user as it encourages them to connect through social media, where all the latest news are being posted
+<img src="assets/images/footer.jpg" alt="the footer of the page with facebook and instagram logos">
 <br>
 <h4>Services</h4>
 - This page displays detailed information of each service provided by the afterschool: from free transportation to food cathering, english classes and arts and crafts activities.
 - This highlights all the features that the club offers, valuble information to help the user make a decision towards the Club's services
+<img src="assets/images/services.jpg" alt="services page for little musketeers website">
 <br>
 <h4>Gallery</h4>
 - This page showcases the activities children can take part. It complements the Services page with visual content, also gives the user a better understanding of the programme the website offers.
+<img src="assets/images/contactgallery.jpg" alt="gallery page for little musketeers website">
 <h4>Contact</h4>
 - It offers information on the location, with the Google Maps feature, contact numbers and email address
 - It includes a form for questions and enquiries, requiring the email and the text box to be filled before submitting.
+<img src="assets/images/contact.jpg" alt="contact page for little musketeers website">
 <br>
 <h3>Features left to implement</h3>
 <br>
