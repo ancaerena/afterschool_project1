@@ -105,6 +105,9 @@ Contact Page:
 - A form where users can register for the programme, with starting date, type of service(before-school or after-school), days of the week, with or without transport. This feature will also give the price at the end, depending on services selected
 <h2>Testing</h2>
 <br>
+- I've tested that this website works in different browsers, Chrome, Edge and Safari
+- I've tested and the website works in different devices, being responsive to them: mobile devices, tablets and 8 inch screens
+- I have confirmed that the form works: requires entries in all fields, an email for email field and text in the text area
 <h3>Validator testing</h3>
 <br>
 <h4>HTML</h4>
@@ -119,14 +122,23 @@ Contact Page:
 <br>
 - I confirm that the colors and fonts chosen are easy to read and accesible by running it through lighthouse in devtools
 <img src="assets/images/web-accesibility.jpeg" alt="data regarding web accesibility from devtools">
+<br>
+<h4>Bugs</h4>
+- 
 <h2>Deployment</h2>
 <br>
+- The site was deployed to Github pages, the steps to deployment as follow:
+<br>
+A. In the Github repository, navigate to the Settings tab
+<br>
+B. 
 <h2>Credits</h2>
 <br>
-- My mentor Seun Owonikoko for introducing the flex display style and helping with the divs display
+- My mentor Seun Owonikoko for introducing the flex display style and helping with the divs display, also with the responsive
 <h3>Content</h3>
 <br>
 - The icons in the footer were taken from Font Awesome
+- Gallery and footer codes from Love Running project
 <br>
 <h3>Media</h3>
 <br>
