@@ -143,8 +143,8 @@ The live link can be found here: [Little Musketeers Club](https://ancaerena.gith
 - My mentor Seun Owonikoko for introducing the flex display style and helping with the divs display, also with the responsive
 <h3>Content</h3>
 <br>
-- The icons in the footer were taken from Font Awesome
-- Gallery and footer codes from Love Running project
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Gallery and footer codes from Love Running project [here](https://github.com/Code-Institute-Org/love-running-2.0)
 <br>
 <h3>Media</h3>
 <br>
