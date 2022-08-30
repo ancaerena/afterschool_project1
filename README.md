@@ -103,6 +103,9 @@ Contact Page:
 <br>
 <h4>Registration form</h4>
 - A form where users can register for the programme, with starting date, type of service(before-school or after-school), days of the week, with or without transport. This feature will also give the price at the end, depending on services selected
+<br>
+<h2>Bugs to be fixed</h2>
+- Add a value to action atribute for the form in Contact page. The form should be send to an email address once submitted, which requires javascript
 <h2>Testing</h2>
 <br>
 - I've tested that this website works in different browsers, Chrome, Edge and Safari
@@ -123,8 +126,6 @@ Contact Page:
 - I confirm that the colors and fonts chosen are easy to read and accesible by running it through lighthouse in devtools
 <img src="assets/images/web-accesibility.jpeg" alt="data regarding web accesibility from devtools">
 <br>
-<h4>Bugs</h4>
-- 
 <h2>Deployment</h2>
 <br>
 - The site was deployed to Github pages, the steps to deployment as follow:
