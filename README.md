@@ -131,7 +131,13 @@ Contact Page:
 <br>
 A. In the Github repository, navigate to the Settings tab
 <br>
-B. 
+B. From there, select Pages from the left side
+<br>
+C. From the source section drop-down menu select Main as a branch and then save
+<br>
+D. Once the main branch was selected, the page provided the link to the completed website
+<br>
+The live link can be found here: [Little Musketeers Club](https://ancaerena.github.io/afterschool_project1/)
 <h2>Credits</h2>
 <br>
 - My mentor Seun Owonikoko for introducing the flex display style and helping with the divs display, also with the responsive
